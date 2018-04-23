@@ -1,0 +1,17 @@
+1.What i will learn?
+you will learn how to register fonts to your application and use gridlayout and tabbebpanel
+in your application with kivy.
+2.Requirements
+Python 2.7 :https://www.python.org/downloads/
+Kivy https://kivy.org/#download
+Pycharm  https://www.jetbrains.com/pycharm/download/#section=windows  (optional)
+Python  experiment  and Object Oriented Programming skills 
+
+3.Description
+This is a second tutorial of creating a weather app in Kivy.In this tutorial
+you will learn how to add icon fonts to your application and use tabbebpanel and gridlayout
+widgets. You will build a fully functional appliation interface with Kivy (kv) language.
+Level:
+intermediate
+
+title: Create  A Weather App - 2
